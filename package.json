@@ -4,14 +4,14 @@
   "description": "Wget plugin for Grunt.",
   "homepage": "https://github.com/shootaroo/grunt-wget",
   "author": {
-    "name": "shootaroo",
-    "email": "shotaro.tsubouchi@gmail.com"
+    "name": "jakejuby",
+    "email": "jjuby@nimbleuser.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shootaroo/grunt-wget.git"
+    "url": "git://github.com/jakejuby/grunt-wget.git"
   },
-  "bugs": "https://github.com/shootaroo/grunt-wget/issues",
+  "bugs": "https://github.com/jakejuby/grunt-wget/issues",
   "license": "MIT",
   "engines": {
     "node": ">=0.8.0"
@@ -32,7 +32,7 @@
     "request": "~2.40.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.0",
+    "grunt": "^1.0.1",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.10.0",
     "jit-grunt": "~0.8.0"
